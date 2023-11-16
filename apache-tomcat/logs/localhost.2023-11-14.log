@@ -1,0 +1,277 @@
+14-Nov-2023 20:50:05.602 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:05.628 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:06.008 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:07.988 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:08.000 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:08.570 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:09.747 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 20:50:09.747 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 20:50:09.749 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@274b3fc6')
+14-Nov-2023 20:50:10.524 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:10.533 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:10.760 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:16.053 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:16.081 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:16.445 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:18.365 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:18.377 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:18.806 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:19.927 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 20:50:19.927 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 20:50:19.929 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4a9e03b')
+14-Nov-2023 20:50:20.634 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:20.643 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:20.835 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:21.621 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.631 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:50:21.654 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.662 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:50:21.678 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 20:50:21.678 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 20:50:21.682 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.689 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.369 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.385 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.432 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.444 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.458 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 20:52:36.458 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 20:52:36.463 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.473 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:13:59.928 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:13:59.951 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:14:00.326 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:14:02.256 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:14:02.264 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:14:02.714 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:14:03.900 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 21:14:03.901 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 21:14:03.902 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@187f6ac7')
+14-Nov-2023 21:14:04.697 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:14:04.706 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:14:04.931 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:14:05.709 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:14:05.727 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:14:05.778 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:14:05.789 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:14:05.801 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 21:14:05.801 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 21:14:05.812 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:14:05.829 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:15:59.371 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:15:59.399 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:15:59.746 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:16:01.616 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:16:01.627 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:16:02.039 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:16:03.260 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 21:16:03.260 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 21:16:03.261 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6fb68c4')
+14-Nov-2023 21:16:04.057 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 21:16:04.068 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 21:16:04.277 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 21:16:49.937 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:16:49.947 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:16:49.984 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:16:49.996 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 21:16:50.012 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 21:16:50.012 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 21:16:50.022 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 21:16:50.031 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 23:03:29.349 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 23:03:29.376 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 23:03:29.734 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 23:03:31.602 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 23:03:31.609 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 23:03:32.031 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 23:03:33.185 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 23:03:33.185 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 23:03:33.186 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@15dcaa32')
+14-Nov-2023 23:03:33.978 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 23:03:33.988 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 23:03:34.208 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 23:04:05.484 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 23:04:05.523 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 23:04:05.530 심각 [Catalina-utility-2] org.apache.catalina.core.StandardContext.listenerStop 클래스 [org.springframework.web.context.ContextLoaderListener]의 인스턴스인 리스너에게 contextDestroyed 이벤트를 전송하는 중 예외 발생
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:249)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:64)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:810)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1293)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1141)
+		at org.springframework.web.context.ContextLoaderListener.contextDestroyed(ContextLoaderListener.java:113)
+		at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:4508)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5147)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1465)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1390)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1653)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:209)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:275)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:299)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 30 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:206)
+		... 33 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/chan6502/Desktop/apache-tomcat-9.0.82 2/apache-tomcat-9.0.82/webapps/ROOT/WEB-INF/lib/spring-web-5.3.20.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:756)
+		at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:873)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:271)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:200)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+		... 37 more
+14-Nov-2023 23:04:06.098 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 23:04:06.119 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 23:04:06.125 심각 [Catalina-utility-2] org.apache.catalina.core.StandardContext.listenerStop 클래스 [org.springframework.web.context.ContextLoaderListener]의 인스턴스인 리스너에게 contextDestroyed 이벤트를 전송하는 중 예외 발생
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:249)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:64)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:810)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1293)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1141)
+		at org.springframework.web.context.ContextLoaderListener.contextDestroyed(ContextLoaderListener.java:113)
+		at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:4508)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5147)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1465)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1390)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1653)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:209)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:275)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:299)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 30 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:206)
+		... 33 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/chan6502/Desktop/apache-tomcat-9.0.82 2/apache-tomcat-9.0.82/webapps/library/WEB-INF/lib/slf4j-api-1.6.6.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:756)
+		at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:873)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:271)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:200)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+		... 37 more
+14-Nov-2023 23:04:06.690 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 23:04:06.690 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 23:04:07.757 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 23:04:07.796 정보 [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 23:04:07.798 심각 [Catalina-utility-2] org.apache.catalina.core.StandardContext.listenerStop 클래스 [org.springframework.web.context.ContextLoaderListener]의 인스턴스인 리스너에게 contextDestroyed 이벤트를 전송하는 중 예외 발생
+	java.lang.IllegalStateException: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:249)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:64)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+		at org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2220)
+		at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:810)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1293)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1141)
+		at org.springframework.web.context.ContextLoaderListener.contextDestroyed(ContextLoaderListener.java:113)
+		at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:4508)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5147)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:242)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:766)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1465)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1390)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1653)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+	Caused by: java.io.IOException: java.lang.reflect.InvocationTargetException
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:209)
+		at org.apache.tomcat.util.compat.JreCompat.jarFileNewInstance(JreCompat.java:275)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:299)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 30 more
+	Caused by: java.lang.reflect.InvocationTargetException
+		at java.base/jdk.internal.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+		at org.apache.tomcat.util.compat.Jre9Compat.jarFileNewInstance(Jre9Compat.java:206)
+		... 33 more
+	Caused by: java.nio.file.NoSuchFileException: /Users/chan6502/Desktop/apache-tomcat-9.0.82 2/apache-tomcat-9.0.82/webapps/BookrentalPjt-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.20.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:756)
+		at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:873)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:271)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:200)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+		... 37 more
