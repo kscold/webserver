@@ -154,3 +154,9 @@
 21-Nov-2023 22:29:22.567 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/host-manager]에 대한 배치가 [7] 밀리초에 완료되었습니다.
 21-Nov-2023 22:29:22.570 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 시작합니다.
 21-Nov-2023 22:29:22.575 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [1232] 밀리초 내에 시작되었습니다.
+21-Nov-2023 22:30:23.233 INFO [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+21-Nov-2023 22:30:23.234 INFO [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 일시 정지 중
+21-Nov-2023 22:30:23.237 INFO [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+21-Nov-2023 22:30:23.254 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [org.mariadb.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+21-Nov-2023 22:30:23.264 INFO [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 중지시킵니다.
+21-Nov-2023 22:30:23.275 INFO [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 소멸시킵니다.
