@@ -1225,3 +1225,56 @@ log4j:WARN Please initialize the log4j system properly.
 21-Nov-2023 22:30:23.254 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [org.mariadb.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
 21-Nov-2023 22:30:23.264 INFO [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 중지시킵니다.
 21-Nov-2023 22:30:23.275 INFO [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 소멸시킵니다.
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Nov-2023 22:35:54.552 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/9.0.82
+21-Nov-2023 22:35:54.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Oct 11 2023 13:15:08 UTC
+21-Nov-2023 22:35:54.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  9.0.82.0
+21-Nov-2023 22:35:54.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Mac OS X
+21-Nov-2023 22:35:54.553 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     14.1.1
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          aarch64
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          11.0.20+9-LTS-256
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/chan6502/Desktop/webserver/apache-tomcat
+21-Nov-2023 22:35:54.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/chan6502/Desktop/webserver/apache-tomcat
+21-Nov-2023 22:35:54.562 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Nov-2023 22:35:54.562 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/Users/chan6502/Desktop/webserver/apache-tomcat/conf/logging.properties
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/Users/chan6502/Desktop/webserver/apache-tomcat
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/Users/chan6502/Desktop/webserver/apache-tomcat
+21-Nov-2023 22:35:54.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/Users/chan6502/Desktop/webserver/apache-tomcat/temp
+21-Nov-2023 22:35:54.568 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [/Users/chan6502/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21-Nov-2023 22:35:54.716 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 초기화합니다.
+21-Nov-2023 22:35:54.730 INFO [main] org.apache.catalina.startup.Catalina.load [291] 밀리초 내에 서버가 초기화되었습니다.
+21-Nov-2023 22:35:54.759 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+21-Nov-2023 22:35:54.759 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.82]
+21-Nov-2023 22:35:54.766 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/ROOT.war]을(를) 배치합니다.
+21-Nov-2023 22:35:55.449 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+log4j:WARN No appenders could be found for logger (org.springframework.web.context.ContextLoader).
+log4j:WARN Please initialize the log4j system properly.
+21-Nov-2023 22:35:55.991 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/ROOT.war]의 배치가 [1,224] 밀리초에 완료되었습니다.
+21-Nov-2023 22:35:55.992 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/docs]을(를) 배치합니다.
+21-Nov-2023 22:35:56.001 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/docs]에 대한 배치가 [9] 밀리초에 완료되었습니다.
+21-Nov-2023 22:35:56.001 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/manager]을(를) 배치합니다.
+21-Nov-2023 22:35:56.017 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/manager]에 대한 배치가 [16] 밀리초에 완료되었습니다.
+21-Nov-2023 22:35:56.017 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/examples]을(를) 배치합니다.
+21-Nov-2023 22:35:56.094 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/examples]에 대한 배치가 [77] 밀리초에 완료되었습니다.
+21-Nov-2023 22:35:56.094 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/host-manager]을(를) 배치합니다.
+21-Nov-2023 22:35:56.102 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/chan6502/Desktop/webserver/apache-tomcat/webapps/host-manager]에 대한 배치가 [7] 밀리초에 완료되었습니다.
+21-Nov-2023 22:35:56.104 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 시작합니다.
+21-Nov-2023 22:35:56.109 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [1379] 밀리초 내에 시작되었습니다.
+[AdminMemberController] loginForm()
+21-Nov-2023 22:36:06.330 INFO [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+21-Nov-2023 22:36:06.331 INFO [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 일시 정지 중
+21-Nov-2023 22:36:06.333 INFO [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+21-Nov-2023 22:36:06.340 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [org.mariadb.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+21-Nov-2023 22:36:06.354 INFO [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 중지시킵니다.
+21-Nov-2023 22:36:06.359 INFO [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-0.0.0.0-80"]을(를) 소멸시킵니다.
