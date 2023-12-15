@@ -1,0 +1,40 @@
+14-Nov-2023 20:50:05.602 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:05.628 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:06.008 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:07.988 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:08.000 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:08.570 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:09.747 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 20:50:09.747 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 20:50:09.749 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@274b3fc6')
+14-Nov-2023 20:50:10.524 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:10.533 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:10.760 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:16.053 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:16.081 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:16.445 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:18.365 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:18.377 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:18.806 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:19.927 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+14-Nov-2023 20:50:19.927 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+14-Nov-2023 20:50:19.929 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4a9e03b')
+14-Nov-2023 20:50:20.634 정보 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Nov-2023 20:50:20.643 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+14-Nov-2023 20:50:20.835 정보 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+14-Nov-2023 20:50:21.621 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.631 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:50:21.654 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.662 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:50:21.678 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 20:50:21.678 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 20:50:21.682 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:50:21.689 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.369 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.385 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.432 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.444 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Nov-2023 20:52:36.458 정보 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Nov-2023 20:52:36.458 정보 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Nov-2023 20:52:36.463 정보 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+14-Nov-2023 20:52:36.473 정보 [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
