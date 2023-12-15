@@ -13,3 +13,18 @@
 16-Dec-2023 04:30:40.373 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
 16-Dec-2023 04:30:40.377 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
 16-Dec-2023 04:30:40.377 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+16-Dec-2023 04:43:16.746 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Dec-2023 04:43:16.754 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Dec-2023 04:43:16.968 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+16-Dec-2023 04:43:17.735 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Dec-2023 04:43:17.739 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Dec-2023 04:43:17.894 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+16-Dec-2023 04:43:18.269 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Dec-2023 04:43:18.269 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Dec-2023 04:43:18.270 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4875012c')
+16-Dec-2023 04:43:35.197 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+16-Dec-2023 04:43:35.200 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+16-Dec-2023 04:43:35.205 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+16-Dec-2023 04:43:35.206 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+16-Dec-2023 04:43:35.210 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+16-Dec-2023 04:43:35.211 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
